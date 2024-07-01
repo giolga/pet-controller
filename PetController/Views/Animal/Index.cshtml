@@ -1,0 +1,44 @@
+﻿@model PetController.Models.Dog
+
+
+<div class="mainText">
+    <div class="mainText">
+        <h1 class="display-4 text-capitalize text-black">Choose your favourite pet</h1>
+        <h4>No need to give any of your details!</h4>
+        <h4>We already know everything :)</h4>
+
+        <p class="smallText"><i>Buy your favourite pet</i></p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12 mb-5 mt-5">
+                <div class="w-100 row makeYourOwnDiv">
+                    <div class="col-4">
+                        <img class="w-100" src="~/images/dog3.png" />
+                    </div>
+
+                    <div class="col-8 align-items-center">
+                        <div class="align-middle makeYourOwnText">
+                            <h3 style="text-align:left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @* @foreach (var pizza in Model.PizzaDb)
+            {
+                var imgPath = "~/images/Pizzas/" + (pizza.ImageTitle) + ".png";
+
+                <div class="col-4 mb-5">
+
+                    <a class="pizza-img" asp-area="" asp-page="Checkout/Checkout" asp-route-ImageTitle="@pizza.ImageTitle" asp-route-PizzaPrice="@pizza.FinalPrice">
+                        <img src="@imgPath" class="w-100" asp-append-version="true" />
+                    </a>
+                </div>
+            } *@
+
+            <br />
+        </div>
+    </div>
+</div>

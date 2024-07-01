@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|c:\\users\\giolga\\desktop\\dotnet1\\petcontroller\\petcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAD5BE7-1E69-4312-B939-82FFE3C572CA}|PetController\\PetController.csproj|solutionrelative:petcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PetController\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PetController\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T18:16:46.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PetController\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PetController\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T18:16:42.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetController\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetController\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T18:16:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "PetController\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Cat.cs",
+              "RelativeToolTip": "PetController\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:16:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "PetController\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Animal.cs",
+              "RelativeToolTip": "PetController\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:16:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetController\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetController\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:16:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalModel.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\AnimalModel.cs",
+              "RelativeDocumentMoniker": "PetController\\Models\\AnimalModel.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\AnimalModel.cs",
+              "RelativeToolTip": "PetController\\Models\\AnimalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:28:48.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Animal\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetController\\Views\\Animal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Views\\Animal\\Index.cshtml",
+              "RelativeToolTip": "PetController\\Views\\Animal\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:09:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "PetController\\Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "PetController\\Controllers\\AnimalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:08:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "PetController\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Models\\Dog.cs",
+              "RelativeToolTip": "PetController\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:01:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Program.cs",
+              "RelativeDocumentMoniker": "PetController\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\DotNet1\\PetController\\PetController\\Program.cs",
+              "RelativeToolTip": "PetController\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:30:48.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
